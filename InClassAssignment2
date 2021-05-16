@@ -1,0 +1,11 @@
+using System;
+using System.Collections.Generic;
+
+namespace Test_InClass_3_TA
+{
+    class Program
+    {
+        static void Main(string[] args)
+     }
+     
+     }

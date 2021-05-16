@@ -6,6 +6,10 @@ namespace Test_InClass_3_TA
     class Program
     {
         static void Main(string[] args)
+Console.WriteLine("Hello World");
+Console.WriteLine("My name is Terri");
+     
+     
      }
      
      }
